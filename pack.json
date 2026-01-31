@@ -1,0 +1,18 @@
+{
+    "pack": {
+        "description": "§c§n§l矿物扩展 §r§r§r§e§n§lOre Expansion§r§r§r\n§7§lMade by: §r§r§7§n§lHuaZi§r§r§r",
+        "min_format": [
+            75,
+            0
+        ],
+        "max_format": [
+            75,
+            0
+        ],
+        "pack_format": 75,
+        "supported_formats": [
+            75,
+            75
+        ]
+    }
+}
